@@ -1,0 +1,2 @@
+language = "cpp"
+run = "clang++-7 -pthread -o sales_tax sales_tax.cpp; ./sales_tax"
